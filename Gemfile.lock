@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    thor (1.4.0)
+
+PLATFORMS
+  x64-mingw-ucrt
+
+DEPENDENCIES
+  thor
+
+BUNDLED WITH
+   2.7.1
